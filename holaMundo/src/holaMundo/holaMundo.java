@@ -6,6 +6,8 @@ public class holaMundo {
 		// TODO Auto-generated method stub
 		System.out.println("Hola mundo!");
 		System.out.println("otra linea");
+		System.out.println("siguiente linea");
+
 	}
 
 }
